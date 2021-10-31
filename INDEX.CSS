@@ -1,0 +1,91 @@
+*{
+padding: 0px;
+margin: 0px;
+box-sizing: border-box;
+}
+ .navbar{ 
+display: flex;
+top: 0;
+position: sticky;
+background-color: white;
+
+}
+li{ 
+float: left;
+list-style-type: none;
+padding: 20px;
+
+}
+.nav{ 
+margin-left: 450px;
+margin-top: 20px;
+
+}
+.img{ 
+margin-left: 20px;
+margin-top: 25px;
+} 
+.HERO{
+                                             background-image: url(./logo.jpg);
+                                             background-size: cover;
+                                             background-position: center center;
+                                             height: 500px;
+                                             }
+                                             .HERO1{
+                                             padding-top: 60px;
+                                             padding-left: 20px;
+                                             color: black;
+                                                                                       
+                                             }
+                                             .hero1 h4{
+                                             margin-bottom: 25px;
+                                             }
+                                             button{                              
+                                             border-radius: 30px;                                          
+                                             height: 35px;
+                                             width: 130px;
+                                             margin-top: 50px;
+                                             }
+                                                                                          
+                                             
+.gallary{ 
+display: flex;
+height: 1rem;
+width: 3rem;
+
+}
+.container { 
+    margin: 3rem 0;
+   
+}
+.container img{ 
+height: 600px;
+border-radius: 5%;
+}
+.num  { 
+ margin-left: 700px;
+
+}
+.container h1 p {
+justify-content: center; 
+align-items: center;
+margin-bottom: 30px;
+   
+   }
+.container h1 p{ 
+height: 700px;
+
+}
+.hero2{ 
+    display: flex;
+
+}
+.hero3 img{ 
+width: 100%;
+box-shadow: 5px 5px 5px;
+border-radius: 15px;
+}
+.hero4{ 
+    text-align: center;
+  padding-top: 12rem;
+}
